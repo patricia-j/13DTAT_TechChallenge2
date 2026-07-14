@@ -1,0 +1,28 @@
+Bibliotecas:
+
+pandas
+numpy
+seaborn
+seaborn.objects
+matplotlib.pyplot
+plotly.express
+xgboost
+lightgbm
+numpy
+
+sklearn.metrics import f1_score
+sklearn.metrics import accuracy_score
+sklearn.metrics import classification_report
+sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+
+sklearn.model_selection import train_test_split
+
+sklearn.tree import DecisionTreeClassifier
+sklearn.tree import plot_tree
+sklearn import tree
+
+
+sklearn.ensemble import RandomForestClassifier
+sklearn.tree import export_graphviz
+
+imblearn.over_sampling import SMOTE
