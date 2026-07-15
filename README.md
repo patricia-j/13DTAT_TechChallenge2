@@ -6,3 +6,4 @@ A estrutura do repositório é a seguinte:
 - data: contém o dataset utilizado
 - notebooks: contém o arquivo com a análise exploratório dos dados e classificação dos modelos de machine learning
 - results: contém o relatório executivo em PDF e um arquivo .txt com o link do vídeo
+- requirements.txt: arquivo com as bibliotecas utilizadas
